@@ -1,3 +1,4 @@
+package day_2;
 
 //Reverse right half pattern
 public class reverseLeftHalfPyramid {
