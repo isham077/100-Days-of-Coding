@@ -1,4 +1,4 @@
-package day_7;
+package day_07;
 
 public class KPattern {
     public static void main(String args[]) {

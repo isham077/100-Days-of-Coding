@@ -1,4 +1,4 @@
-package day_5;
+package day_05;
 
 public class NumberTriangular {
     public static void main(String args[]) {

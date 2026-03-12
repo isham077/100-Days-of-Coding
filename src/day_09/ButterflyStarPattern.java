@@ -1,4 +1,4 @@
-package day_9;
+package day_09;
 public class ButterflyStarPattern {
     public static void main(String[] args) {
         int n = 5;

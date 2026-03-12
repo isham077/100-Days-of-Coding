@@ -1,4 +1,4 @@
-package day_8;
+package day_08;
 
 public class RhombusPattern {
     public static void main(String[] args) {

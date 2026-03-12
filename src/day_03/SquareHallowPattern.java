@@ -1,4 +1,4 @@
-package day_3;//SquareHallowPattern
+package day_03;//SquareHallowPattern
 
 public class SquareHallowPattern {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package day_4;
+package day_04;
 
 public class DiamondPattern {
     public static void main(String args[]){
