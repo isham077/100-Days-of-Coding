@@ -4,5 +4,6 @@ public class PrimeOrNot {
     public static void prime(int n){
 
 
+
     }
 }
