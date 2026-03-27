@@ -2,7 +2,7 @@ package day_15;
 
 import java.util.Scanner;
 
-public class RadiusAndCircumferenceOfACircle {
+public class CircumferenceOfACircle {
     public static Double calculateCircumference(Double radius){
         return 2 * Math.PI * radius;
     }
