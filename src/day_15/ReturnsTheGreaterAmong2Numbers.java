@@ -8,6 +8,9 @@ public class ReturnsTheGreaterAmong2Numbers {
         } else {
             return b;
         }
+        /*Can use [return Math.max(a, b);] also.
+        The Math.max(x,y) method is  used to find the highest value of x and y.
+        */
     }
 
     public static void main(String []args){
