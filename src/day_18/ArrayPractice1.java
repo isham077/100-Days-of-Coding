@@ -20,7 +20,7 @@ public class ArrayPractice1 {
 
     public static void sumOfArray() {
         int[] numbers2 = {5, 94};
-        numbers2[0] = 6;            //changed the first element from 5 to 6.
+//        numbers2[0] = 6;            //changed the first element from 5 to 6.
         int sum = 0;
 
         // Loop through the array and add each element to sum
