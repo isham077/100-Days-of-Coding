@@ -33,7 +33,6 @@ public class SearchElementMatrix {
 
             }
         }
-
         if(!found) {
             System.out.println("Not Found");
         }
