@@ -9,7 +9,6 @@ This repository documents my 100 Days of Coding challenge focused on strengtheni
 
 - Build strong foundations in Java.
 - Improve logical and analytical thinking.
-- Develop coding consistency.
 - Master Data Structures & Algorithms.
 - Prepare for placement opportunities.
 
