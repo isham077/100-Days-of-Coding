@@ -19,6 +19,7 @@ public class SmallestElement {
             }
 
             // Assume first element is the smallest
+                
             int min = matrix[0][0];
 
             // Find the smallest element
