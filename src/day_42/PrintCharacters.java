@@ -1,7 +1,7 @@
 package day_42;
 import java.util.Scanner;
 
-public class PrintCharacters {
+public class w {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
