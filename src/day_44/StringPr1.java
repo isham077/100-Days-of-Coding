@@ -9,7 +9,6 @@ public class StringPr1 {
         String result = "";
 
         for(int i=0; i<str.length();i++){
-//            if(i==new String "e"){
             if(str.charAt(i) == 'e') {
                 result += 'i';
             }else{
