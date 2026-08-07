@@ -14,3 +14,11 @@ public class StringBuilder01 {
 
     }
 }
+
+//Declaration
+//StringBuilder sb = new StringBuilder("Apna College");
+//System.out.println(sb);
+//Get A Character from Index
+//StringBuilder sb = new StringBuilder("Tony");
+//Set Char
+//System.out.println(sb.charAt(0));
