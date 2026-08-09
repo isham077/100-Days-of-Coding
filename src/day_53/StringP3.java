@@ -4,7 +4,6 @@ import java.util.*;
 public class StringP3 {
     public static void main(String args[]) {
         Scanner sc = new Scanner(System.in);
-
         String str = sc.next();
         String result = "";
 
@@ -15,7 +14,6 @@ public class StringP3 {
                 result += str.charAt(i);
             }
         }
-
         System.out.println(result);
     }
 }
